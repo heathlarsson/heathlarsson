@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Heath (@heathlarsson), I’m interested in systems neuroscience underlying learning and memory
-- Especially interested in all things in electrophysiolgoy (especially in vivo)(especially the word especially)
+- Especially interested in all things in electrophysiology (especially in vivo)(really like the word especially)
 
 
 <!---
